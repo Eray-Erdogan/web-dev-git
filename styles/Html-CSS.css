@@ -1,0 +1,84 @@
+h1 {
+  font-family: "Sedgwick Ave", cursive;
+  color: indigo;
+  font-weight: bolder;
+
+  padding: 20px;
+  margin: 5px;
+}
+header img {
+  width: 150px;
+  height: 90px;
+}
+
+main {
+  height: auto;
+  width: 700px;
+
+  background-color: rgb(255, 255, 255);
+  text-align: left;
+
+  margin: 50px auto 50px auto;
+
+  border: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: rgb(95, 77, 3);
+
+  box-shadow: 1px 1px 10px rgb(145, 0, 0);
+}
+h2 {
+  font-family: "Roboto Slab", serif;
+  font-family: "Sedgwick Ave", cursive;
+  color: indigo;
+  font-weight: bolder;
+
+  padding: 20px;
+  margin: 5px;
+}
+p {
+  font-size: small;
+  text-align: left;
+
+  padding: 2px;
+  margin: 5px;
+  font-family: "Roboto Slab", serif;
+}
+.preDefinition {
+  padding: 10px;
+  margin: 5px;
+}
+
+li {
+  font-size: smaller;
+  padding: 2px;
+  font-family: "Roboto Slab", serif;
+  list-style: none;
+
+  border: 5px;
+  border-left: solid;
+  border-left-color: transparent;
+}
+.list-highlight {
+  border: 5px;
+  border-left: solid;
+  border-left-color: blueviolet;
+}
+a {
+  background-color: rgb(255, 226, 223);
+  font-weight: 600;
+  color: blue;
+}
+footer a {
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px rgb(145, 0, 0);
+}
+a:hover {
+  text-decoration: none;
+  background-color: rgb(224, 255, 150);
+}
+footer a:hover,
+footer a:active {
+  background-color: rgb(224, 255, 150);
+}
+

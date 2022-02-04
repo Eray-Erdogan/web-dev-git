@@ -1,0 +1,79 @@
+header {
+  margin-bottom: 5ch;
+}
+
+h1 {
+  
+  font-size: 6ch;
+  font-family: "Oswald", sans-serif;
+  color: rgb(78, 23, 6);
+
+  background-color: rgb(244, 227, 255);
+
+  padding: 1cm;
+  width: 700px;
+  margin: 1ch auto 1ch auto;
+
+  border-radius: 25%;
+  border: 1mm;
+  border-style: solid;
+  border-color: rgb(31, 9, 9);
+}
+header p {
+  margin: 2ch auto 5ch auto;
+}
+
+
+a {
+  background-color: rgb(255, 255, 255);
+  border-radius: 25%;
+  padding: 1ch;
+  padding: auto;
+  display: inline-block;
+  font-size: small;
+}
+
+#first-p {
+  color: blueviolet;
+}
+#second-p {
+  color: blue;
+}
+
+ol {
+  list-style: none;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: larger;
+  margin: 1ch auto 1ch auto;
+  /* Bu alanda Margin üst sağ alt sol olarak sıralanır.  */
+  width: 600px;
+  /* width özelliği sadece ordered listi etkiler ve arka plan css boxte bu alanı kapsar . */
+}
+
+li {
+  list-style: none;
+  margin-top: 2ch;
+  margin-bottom: 2ch;
+  background-color: rgb(255, 255, 255);
+  border-radius: 5%;
+  box-shadow: 1px 1px 10px rgb(145, 0, 0);
+  text-align: left;
+}
+
+main h2 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(78, 23, 6);
+  font-weight: bold;
+  margin: 1ch;
+  padding: 1ch;
+}
+
+main p {
+  margin: 1ch;
+  padding: 1ch;
+  color: rgb(78, 23, 4);
+}
+.highlight-next-paragraph {
+  box-shadow: 0 0 0 20px rgb(219, 255, 222) inset;
+}
