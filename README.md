@@ -9,7 +9,7 @@
 
 ## Background
 
-•In this part I tried to use some basics in HTML and CSS. 
+•In this part, I tried to use some tools for Web development . 
 
     
 -   Core technologies: HTML, CSS & JavaScript
