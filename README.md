@@ -2,6 +2,14 @@
 # # WEB DEVELOPER JOURNEY 
 
 
+## Project Definition
+•The main goal of this journey is to learn and develop Web pages. 
+
+
+
+## Background
+
+•In this part I tried to use some basics in HTML and CSS. 
 
     
 -   Core technologies: HTML, CSS & JavaScript
@@ -39,21 +47,6 @@
 -   Move on to more specialized, advanced concepts like building REST APIs
     
 -   Explore frontend JavaScript frameworks like Vue.js to build even more powerful web user interfaces
-
-
-
-
-
-## Background
-
-•In this part I tried to use some basics in HTML and CSS
-
-
-
-
-## Problem Definition
-•The main goal of this journey is to learn and develop Web pages. 
-
 
 
 
