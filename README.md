@@ -27,14 +27,14 @@
 -   Explore browser / user events and how to handle them with JavaScript
     
 -   Build tons of projects (e.g. a Tic-Tac-Toe browser game) to practice and fully understand all these technologies
-- 
-    #
+      #
     
 -   Dive into backend development with NodeJS & ExpressJS
     
 -   Learn what NodeJS is and how it works
     
 -   Build basic backend-driven websites with advanced concepts like dynamic routing or dynamic templates
+     #
     
 -   Learn how to work with databases - SQL & NoSQL (and what that is)
     
